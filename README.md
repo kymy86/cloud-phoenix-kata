@@ -40,5 +40,5 @@ you need to guarantee that the application is always available.
 2. [x] Recover from crashes. Implement an autorestart mechanism.
 3. [x] Backup the logs and database with a rotation of 7 days
 4. [x] Notify any CPU peak
-5. [ ] Implements a CI/CD pipeline for the code
+5. [x] Implements a CI/CD pipeline for the code
 6. [x] Scale when the number of requests is greater than 10 req /sec
