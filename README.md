@@ -36,9 +36,9 @@ you need to guarantee that the application is always available.
 
 ## Problem Requirements
 
-1. Automate the creation of the infrastructure and the setup of the application.
-2. Recover from crashes. Implement an autorestart mechanism.
-3. Backup the logs and database with a rotation of 7 days
-4. Notify any CPU peak
-5. Implements a CI/CD pipeline for the code
-6. Scale when the number of requests is greater than 10 req /sec
+1. [x] Automate the creation of the infrastructure and the setup of the application.
+2. [x] Recover from crashes. Implement an autorestart mechanism.
+3. [x] Backup the logs and database with a rotation of 7 days
+4. [x] Notify any CPU peak
+5. [] Implements a CI/CD pipeline for the code
+6. [x] Scale when the number of requests is greater than 10 req /sec
