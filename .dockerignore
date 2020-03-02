@@ -1,0 +1,9 @@
+.idea
+.git
+.gitignore
+.eslintignore
+.eslintrc.json
+README.md
+test
+Dockerfile
+.dockerignore
