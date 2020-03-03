@@ -1,4 +1,6 @@
-# Phoenix Application Problem
+# Phoenix Application Problem ![version][version-badge]
+[version-badge]: https://img.shields.io/badge/version-1.4.1-blue.svg
+
 This problem is about to create a production ready infrastructure for the Phoenix Application.
 
 ## Problem
