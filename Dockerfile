@@ -29,4 +29,4 @@ COPY --chown=node:node . .
 
 EXPOSE 3000
 
-CMD ["chamber", "exec", "phoenix-polimi", "--", "npm", "start"]
+CMD ["chamber", "exec", "phoenix", "--", "npm", "start"]
